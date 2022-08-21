@@ -10,8 +10,8 @@ I'm Deepak Maurya
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MauryaD21)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/deepak-maurya-378811169/)
+<a href="https://www.linkedin.com/in/deepak-maurya-378811169" target="blank"><img align="center" src="https://managersante.com/wp-content/uploads/2015/12/2000px-linkedin_icon-svg.png" alt="MauryaD" height="30" width="40" /></a>
+<a href="https://twitter.com/MauryaD21" target="blank"><img align="center" src="https://284ivp1abr6435y6t219n54e-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/twitter-logo-transparent-15.png" alt="MauryaD" height="30" width="40" /></a>
 [![Gmail Badge](https://img.shields.io/badge/-deepakmaurya2198@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deepakmaurya2198@gmail.com)](mailto:deepakmaurya2198@gmail.com)
 <a href="https://www.leetcode.com/MauryaD21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MauryaD21" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deepakmaurya2198/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="MauryaD" height="30" width="40" /></a>
@@ -46,8 +46,8 @@ I'm Deepak Maurya
 
     
 ## 🐱‍💻 Coded in:
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MauryaD&show_icons=true&locale=en&layout=compact" alt="MauryaD"/>
+<p align="center">
+    <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=MauryaD&show_icons=true&locale=en&layout=compact" alt="MauryaD"/>
 </p>
 
 
