@@ -15,6 +15,7 @@ I'm Deepak Maurya
 [![Gmail Badge](https://img.shields.io/badge/-deepakmaurya2198@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deepakmaurya2198@gmail.com)](mailto:deepakmaurya2198@gmail.com)
 <a href="https://www.leetcode.com/MauryaD21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MauryaD21" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deepakmaurya2198/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="MauryaD" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deepakmaurya2198" target="blank"><img align="center" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" alt="MauryaD" height="30" width="40" /></a>
 
 
 ## 🍁 Languages
