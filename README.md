@@ -11,7 +11,7 @@ I'm Deepak Maurya
 
 
 <a href="https://www.linkedin.com/in/deepak-maurya-378811169" target="blank"><img align="center" src="https://managersante.com/wp-content/uploads/2015/12/2000px-linkedin_icon-svg.png" alt="MauryaD" height="30" width="40" /></a>
-<a href="https://twitter.com/MauryaD21" target="blank"><img align="center" src="https://284ivp1abr6435y6t219n54e-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/twitter-logo-transparent-15.png" alt="MauryaD" height="30" width="40" /></a>
+<a href="https://twitter.com/MauryaD21" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg"  height="30" width="40"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-deepakmaurya2198@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deepakmaurya2198@gmail.com)](mailto:deepakmaurya2198@gmail.com)
 <a href="https://www.leetcode.com/MauryaD21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MauryaD21" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deepakmaurya2198/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="MauryaD" height="30" width="40" /></a>
@@ -36,6 +36,8 @@ I'm Deepak Maurya
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/ </a> 
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="45" height="45"/> </a>
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" width="45" height="45"/> </a>
 <!--  <a href="https://www.scala-sbt.org/" target="_blank"> <img src="https://logodix.com/sbt" alt="sbt" width="45" height="45"/> </a> -->
 
 </p>
